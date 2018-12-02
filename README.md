@@ -21,7 +21,7 @@ Milestone Report:  Capstone_Project_Milestone_Report.pdf
 
 Final Report: Capstone_Project_Final_Report-Predicting_Lending_Club_Loan_ROI.pdf
 
-Slide Deck: Capstone_Project_Slide_deck-Predicting_Lending_Club_Loan_ROI.pptx
+Slide Deck: Capstone_Project_Slide_Deck-Predicting_Lending_Club_Loan_ROI.pptx
 
 
 The data used for this project was the 2012-2013 dataset from Lending Club found at:
